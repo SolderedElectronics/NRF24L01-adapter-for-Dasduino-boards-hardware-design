@@ -126,3 +126,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter generic TXB0104 breakout to Logic-level-converter-generic-TXB0104-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/NRF24L01 adapter for Dasduino boards/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 61823b8] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/NRF24L01-adapter-for-Dasduino-boards-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter generic TXB0104 breakout/OUTPUTS/V1.0.0: all files are present, commiting...
+Logic-level-converter-generic-TXB0104-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Adapteri-green/Logic level converter generic TXB0104 breakout to Logic-level-converter-generic-TXB0104-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Adapteri-green/NRF24L01 adapter for Dasduino boards/.git/
