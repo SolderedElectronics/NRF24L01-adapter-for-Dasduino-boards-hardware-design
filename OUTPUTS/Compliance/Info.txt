@@ -2,4 +2,4 @@ SKU: 333059
 Full product name: NRF24L01 adapter for Dasduino boards
 Country of origin: Croatia
 HS tariff code: 85340090
-EAN/UPC barcode: 
+EAN/UPC barcode: 732388671304
